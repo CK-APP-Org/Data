@@ -4,27 +4,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -32,27 +32,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -60,27 +60,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -88,27 +88,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -116,17 +116,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -144,17 +144,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -232,27 +232,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -260,27 +260,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -288,27 +288,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -316,27 +316,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -344,17 +344,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -372,17 +372,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -460,27 +460,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -488,27 +488,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "公民與社會",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -516,27 +516,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -544,27 +544,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "地理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "歷史",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -572,17 +572,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -600,17 +600,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -688,22 +688,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -716,22 +716,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -744,22 +744,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -772,22 +772,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -800,17 +800,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -828,17 +828,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -916,22 +916,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -944,22 +944,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -972,22 +972,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1000,22 +1000,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1028,17 +1028,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1056,17 +1056,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1144,22 +1144,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1172,22 +1172,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1200,22 +1200,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1228,22 +1228,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1256,17 +1256,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1284,17 +1284,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1372,22 +1372,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1400,22 +1400,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1428,22 +1428,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1456,22 +1456,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1484,17 +1484,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1512,17 +1512,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1600,22 +1600,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1628,22 +1628,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1656,22 +1656,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1684,22 +1684,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1712,17 +1712,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1740,17 +1740,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1828,22 +1828,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1856,22 +1856,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1884,22 +1884,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1912,22 +1912,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1940,17 +1940,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -1968,17 +1968,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2056,22 +2056,22 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2084,22 +2084,22 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2112,22 +2112,22 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2140,22 +2140,22 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2168,17 +2168,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2196,17 +2196,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2284,27 +2284,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2312,27 +2312,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2340,27 +2340,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2368,27 +2368,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2396,17 +2396,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2424,17 +2424,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2512,27 +2512,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2540,27 +2540,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2568,27 +2568,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2596,27 +2596,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2624,17 +2624,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2652,17 +2652,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2740,27 +2740,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2768,27 +2768,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2796,27 +2796,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2824,27 +2824,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2852,17 +2852,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2880,17 +2880,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -2968,27 +2968,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -2996,27 +2996,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3024,27 +3024,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3052,27 +3052,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3080,17 +3080,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3108,17 +3108,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3196,27 +3196,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3224,27 +3224,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3252,27 +3252,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3280,27 +3280,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3308,17 +3308,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3336,17 +3336,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3424,27 +3424,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3452,27 +3452,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3480,27 +3480,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3508,27 +3508,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3536,17 +3536,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3564,17 +3564,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3652,27 +3652,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3680,27 +3680,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3708,27 +3708,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3736,27 +3736,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3764,17 +3764,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3792,17 +3792,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -3880,27 +3880,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3908,27 +3908,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3936,27 +3936,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3964,27 +3964,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -3992,17 +3992,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4020,17 +4020,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4108,27 +4108,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4136,27 +4136,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4164,27 +4164,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4192,27 +4192,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4220,17 +4220,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4248,17 +4248,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4336,27 +4336,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4364,27 +4364,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4392,27 +4392,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4420,27 +4420,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4448,17 +4448,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4476,17 +4476,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4564,27 +4564,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4592,27 +4592,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4620,27 +4620,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4648,27 +4648,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4676,17 +4676,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4704,17 +4704,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4792,27 +4792,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4820,27 +4820,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4848,27 +4848,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4876,27 +4876,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -4904,17 +4904,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -4932,17 +4932,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5020,27 +5020,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5048,27 +5048,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5076,27 +5076,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5104,27 +5104,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5132,17 +5132,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5160,17 +5160,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5248,27 +5248,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5276,27 +5276,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5304,27 +5304,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5332,27 +5332,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5360,17 +5360,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5388,17 +5388,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5476,27 +5476,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5504,27 +5504,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5532,27 +5532,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5560,27 +5560,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5588,17 +5588,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5616,17 +5616,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5704,27 +5704,27 @@
       {
         "name": "一",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5732,27 +5732,27 @@
       {
         "name": "二",
         "Monday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "化學",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5760,27 +5760,27 @@
       {
         "name": "三",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5788,27 +5788,27 @@
       {
         "name": "四",
         "Monday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "國語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Thursday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Friday": {
-          "subject": "物理",
+          "subject": "",
           "note": "",
           "color": "Default"
         }
@@ -5816,17 +5816,17 @@
       {
         "name": "五",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
@@ -5844,17 +5844,17 @@
       {
         "name": "六",
         "Monday": {
-          "subject": "數學",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Tuesday": {
-          "subject": "生物",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
         "Wednesday": {
-          "subject": "英語文",
+          "subject": "",
           "note": "",
           "color": "Default"
         },
