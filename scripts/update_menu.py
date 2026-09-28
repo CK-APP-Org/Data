@@ -56,9 +56,9 @@ def main() -> int:
                 print(f"::warning::Skipping {label}: no menu items")
                 continue
 
+            # Dedupe before dropping past weeks so a file that resolves to an old week
+            # (e.g. a stale sheet) still shows up as a duplicate warning
             monday = get_monday_date(min(item["date"] for item in menu))
-            if monday < this_monday and not args.all:
-                continue
             previous = weeks.get(monday)
             if previous and previous[0]["modifiedTime"] >= file["modifiedTime"]:
                 print(f"::warning::{label} duplicates week {monday:%Y-%m-%d}; keeping newer {previous[0]['name']}")
@@ -68,6 +68,8 @@ def main() -> int:
             weeks[monday] = (file, menu)
 
     for monday in sorted(weeks):
+        if monday < this_monday and not args.all:
+            continue
         file, menu = weeks[monday]
         print(f"Week {monday:%Y-%m-%d}: {file['name']} ({len(menu)} items)")
         if not args.dry_run:

@@ -32,16 +32,32 @@ def _parse_price(value):
     return None
 
 
+def _pick_sheet(wb, sheet_name):
+    """
+    Staff sometimes edit a copy of the sheet (e.g. `週菜單 (彬)`) and leave a stale
+    `週菜單` from an earlier week in the file, so among every sheet whose name starts
+    with `sheet_name`, use the one dated latest.
+    """
+    candidates = []
+    for name in wb.sheetnames:
+        if not name.strip().startswith(sheet_name):
+            continue
+        try:
+            candidates.append((_find_monday(wb[name]), wb[name]))
+        except ValueError:
+            continue
+    if not candidates:
+        raise ValueError(f"No '{sheet_name}' sheet with a Monday date (sheets: {wb.sheetnames})")
+    return max(candidates, key=lambda c: c[0])
+
+
 def scrape_menu(file_path, sheet_name="週菜單"):
     """
     Returns a list of dicts: date, day, dish_number, dish_name, price.
     Rows whose 項次 cell is not a number (e.g. ★, side dishes, notes) are skipped.
     """
     wb = openpyxl.load_workbook(file_path, data_only=True)
-    if sheet_name not in wb.sheetnames:
-        raise ValueError(f"Sheet '{sheet_name}' not found (sheets: {wb.sheetnames})")
-    sheet = wb[sheet_name]
-    monday = _find_monday(sheet)
+    monday, sheet = _pick_sheet(wb, sheet_name)
 
     menu_data = []
     for day_offset, col in DAY_START_COLUMNS.items():
